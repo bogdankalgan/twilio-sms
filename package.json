@@ -1,0 +1,8 @@
+{
+  "name": "twilio-sms-api",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "dependencies": {
+    "twilio": "^4.15.0"
+  }
+}
